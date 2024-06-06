@@ -1,0 +1,21 @@
+{
+  "name": "codezium",
+  "displayName": "codezium",
+  "description": "Dark theme for visual studio code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codezium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codezium-color-theme.json"
+      }
+    ]
+  }
+}
