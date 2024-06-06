@@ -3,8 +3,56 @@
 	"colors": {
 		"editor.background": "#263238",
 		"editor.foreground": "#a8b6b6",
-		"activityBarBadge.background": "#ecb43c",
-		"sideBarTitle.foreground": "#ecb43c"
+		"editorLineNumber.foreground": "#a8b6b6",
+		"editorLineNumber.activeForeground": "#c0f5f5",
+		"editorCursor.foreground": "#a8b6b6",
+		"editor.selectionBackground": "#5e7887",
+		"editor.selectionHighlightBackground": "#4b6878",
+		"editor.lineHighlightBackground": "#37474f",
+		"activityBar.background": "#37474f", // Color de fondo de la barra de actividades
+		"activityBar.foreground": "#ecb43c", // Color de los iconos de la barra de actividades
+		"activityBar.inactiveForeground": "#a8b6b6", // Color de los iconos inactivos de la barra de actividades
+		"activityBarBadge.background": "#ecb43c", // Color de fondo de las insignias
+		"activityBarBadge.foreground": "#263238", // Color de texto de las insignias
+		"activityBar.border": "#263238", // Color del borde de la barra de actividades
+		"sideBarTitle.foreground": "#ecb43c",
+		"sideBar.background": "#263238",
+		"sideBar.foreground": "#a8b6b6",
+		"sideBar.border": "#263238",
+		"statusBar.background": "#263238",
+		"statusBar.foreground": "#a8b6b6",
+		"statusBar.border": "#263238",
+		"statusBar.noFolderBackground": "#263238",
+		"statusBar.noFolderForeground": "#a8b6b6",
+		"statusBar.noFolderBorder": "#263238",
+		"statusBar.debuggingBackground": "#263238",
+		"statusBar.debuggingForeground": "#a8b6b6",
+		"statusBar.debuggingBorder": "#263238",
+		"titleBar.activeBackground": "#37474f", // Color de fondo de la barra de título activa
+		"titleBar.activeForeground": "#ecb43c", // Color del texto de la barra de título activa
+		"titleBar.inactiveBackground": "#263238", // Color de fondo de la barra de título inactiva
+		"titleBar.inactiveForeground": "#a8b6b6", // Color del texto de la barra de título inactiva
+		"titleBar.border": "#263238",
+		"tab.activeBackground": "#37474f", // Color de fondo de la pestaña activa
+		"tab.activeForeground": "#ecb43c", // Color del texto de la pestaña activa
+		"tab.inactiveBackground": "#263238", // Color de fondo de las pestañas no activas
+		"tab.inactiveForeground": "#a8b6b6", // Color del texto de las pestañas no activas
+		"tab.border": "#263238", // Color del borde entre las pestañas
+		"tab.activeBorder": "#ecb43c", // Color del borde en la parte superior de la pestaña activa
+		"tab.unfocusedActiveBackground": "#37474f", // Color de fondo de la pestaña activa cuando el editor no está enfocado
+		"tab.unfocusedInactiveBackground": "#263238", // Color de fondo de las pestañas no activas cuando el editor no está enfocado
+		"tab.unfocusedActiveForeground": "#a8b6b6", // Color del texto de la pestaña activa cuando el editor no está enfocado
+		"tab.unfocusedInactiveForeground": "#a8b6b6",
+		"editorGroupHeader.tabsBackground": "#263238", // Color de fondo de la barra de pestañas
+		"editorGroupHeader.tabsBorder": "#37474f", // Color del borde de la barra de pestañas
+		"editorGroupHeader.noTabsBackground": "#263238", // Color de fondo del editor sin pestañas
+		"editorGroup.border": "#263238",
+		"menu.foreground": "#a8b6b6", // Color del texto y de los iconos del menú
+		"menu.background": "#263238", // Color de fondo del menú
+		"menu.selectionForeground": "#ecb43c", // Color del texto y de los iconos del menú seleccionado
+		"menu.selectionBackground": "#37474f", // Color de fondo del menú seleccionado
+		"menu.selectionBorder": "#263238", // Color del borde del menú seleccionado
+		"menu.separatorBackground": "#37474f" // Color del separador del menú
 	},
 	"tokenColors": [
 		{
